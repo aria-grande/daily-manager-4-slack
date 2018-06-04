@@ -1,0 +1,12 @@
+{
+
+  "name": "daily-manager-4-slack",
+  "version": "1.0.0",
+  "description": "application for slack notifying daily manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aria",
+  "license": "ISC"
+}
